@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T1_PI_EDJD_IGA", "T1_PI_EDJD_IGA\T1_PI_EDJD_IGA.vcxproj", "{7367680D-D8DA-4B2E-8E9B-74A3BE305557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Debug|x64.ActiveCfg = Debug|x64
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Debug|x64.Build.0 = Debug|x64
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Debug|x86.ActiveCfg = Debug|Win32
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Debug|x86.Build.0 = Debug|Win32
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Release|x64.ActiveCfg = Release|x64
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Release|x64.Build.0 = Release|x64
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Release|x86.ActiveCfg = Release|Win32
+		{7367680D-D8DA-4B2E-8E9B-74A3BE305557}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226365B1-1869-4F5F-8786-B59E2FD57C69}
+	EndGlobalSection
+EndGlobal
